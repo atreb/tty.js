@@ -1,1 +1,11 @@
-{"platform": "nodejs"}
+{
+  "platform":"nodejs",
+  "tags": {
+    "default": {
+      "owner": "wsj-frontpage@dowjones.com",
+      "bu": "djcs",
+      "product": "wsj",
+      "component": "application",
+      "environment": "dev"
+    }
+}
