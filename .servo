@@ -5,7 +5,7 @@
       "owner": "wsj-frontpage@dowjones.com",
       "bu": "djcs",
       "product": "wsj",
-      "component": "application",
+      "component": "othr",
       "environment": "dev"
     }
   }
